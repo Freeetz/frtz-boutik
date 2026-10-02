@@ -32,6 +32,7 @@ def do_add(products, cart):
     if not stock.is_available(product, cart.get(product_id, 0) + quantity):
         print("Stock insuffisant.")
         return
+    
     panier.add_to_cart(cart, product_id, quantity)
     print(f"{product['name']} ajouté au panier ({panier.cart_count(cart)} article(s)).")
 
