@@ -58,7 +58,15 @@ Lis [CONTRIBUTING.md](CONTRIBUTING.md) : une issue, une branche, une Pull Reques
 ## Équipe
 
 | Rôle | Nom | GitHub |
-| Développeur | Jules Dolo-Périquet | @jules-dp |
+
+| Chef d'équipe | Hugo | Freeetz |
+| Équipier | Edi | Edi897 |
+| Équipier | Lorenzo | lorenzo755 |
+| Équipier | Kevan | kevanpf |
+| Équipier | Eden | Edrexium |
+| Équipier | Alexandre | alexandre-cathelineau |
+| Équipier | Jules | jules-dp |
+
 
 ## Licence
 
