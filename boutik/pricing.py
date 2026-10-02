@@ -1,6 +1,6 @@
 """Prix : TVA, codes promo et frais de livraison."""
 
-TVA = 0.20
+TVA = 1.20
 
 
 def price_ttc(price_ht):
